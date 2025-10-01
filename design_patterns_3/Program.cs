@@ -21,6 +21,8 @@ namespace design_patterns_3
                  new Student("DDD44123", "Klaus", 4.0),
                  new Student("DDD44123", "Klaus", 4.0),
                  new Student("DDD44123", "Klaus", 4.0),
+                 new Student("DDD44123", "Klaus", 4.0),
+                 new Student("DDD44123", "Klaus", 4.0),
 
             };
 
